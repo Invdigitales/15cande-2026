@@ -121,9 +121,9 @@
   }
   .parrafo12 {
     text-align: center;
-    font-family: "Bad Script", cursiva; 
-       font-size: 28px;
-       color: #5c5c5c;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       font-size: 20px;
+       color: #3e3e3e;
        line-height: 30px;
        margin-top: 5%;
   
@@ -140,7 +140,7 @@
     margin-top: 8%;
     background-size: 50%;
     background-color: #86895d;
-    margin-left: 41%;
+    margin-left: 26%;
    font-family:'Amatic SC', cursive;
     background-image: url(./imagenes/brillo.gif);
     background-size: 100%;
@@ -169,14 +169,14 @@ margin-left: 68%;
   margin-left: 39%;
 }
 .baño{
-  width: 8%;
-  margin-top: 3%;
-  margin-left: 47%;
+  width: 23%;
+  margin-top: -2%;
+  margin-left: 40%;
 }
 .regalo{
-  width: 10%;
+  width: 15%;
   margin-top: 4%;
-  margin-left: 45%;
+  margin-left: 42%;
 }
   .parrafo1{
     text-align: center; 
@@ -269,9 +269,9 @@ margin-left: 68%;
     margin-top: 1%;
   }
    .mariposagif{
-  width: 10%;
+  width: 30%;
   margin-top: -78%;
-  margin-left: 40%;
+  margin-left: 35%;
    }
 .presentacion{
   width: 90%;
