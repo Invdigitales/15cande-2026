@@ -18,6 +18,10 @@
   /*CUENTA REGRESIVA*/
   
   @media (max-width: 730px) {
+   
+
+
+   
     .cuenta-regresiva {
       display: flex;
       text-align: center;
@@ -99,8 +103,9 @@
     font-family: 'Julius Sans One', sans-serif;
     font-size: 12px;
     text-align: center;
-    margin-top: 10%;
-    color: #515051;
+    margin-top: 5%;
+    font-weight: 600;
+    color: #2c2c2c;
    
    }
     h5{
@@ -121,12 +126,23 @@
   }
   .parrafo12 {
     text-align: center;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-       font-size: 20px;
+ font-family: 'PT Sans Narrow', sans-serif;
+       font-size: 22px;
        color: #3e3e3e;
        line-height: 30px;
        margin-top: 5%;
   
+  }
+ .musica{
+  text-align: center;
+  font-family: "Allura", cursive;
+   font-size: 23px;
+   color: #242424;
+   font-weight: 500; 
+   margin-top: 10%;
+ }
+  .spotifywrapper{
+    margin-left: 18%;
   }
   .click4{
     font-size: 35px;
