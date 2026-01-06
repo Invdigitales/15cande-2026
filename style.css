@@ -216,7 +216,7 @@ margin-left: 68%;
     font-family: "Bad Script", cursiva; 
        font-size: 28px;
        color: #5c5c5c;
-       line-height: 30px;
+       line-height: 35px;
        margin-top: 10%;
   
   }
@@ -232,7 +232,7 @@ margin-left: 68%;
     font-family: "Bad Script", cursiva; 
        font-size: 28px;
        color: #5c5c5c;
-       line-height: 30px;
+       line-height: 35px;
        margin-top: 8%;
   }
   .parrafo8{
@@ -247,8 +247,8 @@ margin-left: 68%;
     font-family: "Bad Script", cursiva; 
        font-size: 28px;
        color: #5c5c5c;
-       line-height: 30px;
        margin-top: 5%;
+       line-height: 34px;
   
   }
 
@@ -259,6 +259,7 @@ margin-left: 68%;
        color: #5c5c5c;
        line-height: 30px;
        margin-top: 5%;
+      line-height: 34px;
   
   } 
 
@@ -278,6 +279,7 @@ margin-left: 68%;
        font-size: 38px;
        color: #86895d;
        margin-top: 10%;  
+
   }
   .lape{
     width: 50%;
